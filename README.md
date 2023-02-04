@@ -1,4 +1,4 @@
-# Zacharie McGee
+# 🎲 Zacharie McGee
 
 ### Hi there 👋
 
