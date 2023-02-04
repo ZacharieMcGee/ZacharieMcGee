@@ -1,4 +1,8 @@
+# Zacharie McGee
+
 ### Hi there 👋
+
+As with most things in life, this is a work in progress! 🔧🚧🔨
 
 <!--
 **ZacharieMcGee/ZacharieMcGee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
