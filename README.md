@@ -13,6 +13,9 @@ I'm a self-taught web developer who's contributing to our digital landscape one 
 - ⚡ Fun fact: I've dipped into 3D modeling and game dev at some point.
 - 🔨 Looking for work!
 
+<br />
+<br />
+
 ### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -25,7 +28,29 @@ I'm a self-taught web developer who's contributing to our digital landscape one 
 <img align="left" alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="35px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
+<br />
+<br />
 
+### Recent Projects
+
+<!--
+<p>
+  <span>
+    <a href='https://zachariemcgee.github.io/flagfitness/' target='_blank'><img src='img/FlagFitness16.9.png' alt='flagfitness' width='278' /></a> 
+    <a href="https://github.com/ZacharieMcGee/flagfitness">  
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ZacharieMcGee&repo=flagfitness&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats">
+    </a>
+  </span>
+  
+  <span>
+    <a href='https://zachariemcgee.github.io/flagfitness/' target='_blank'><img src='img/FlagFitness16.9.png' alt='flagfitness' width='278' /></a>
+    <a href="https://github.com/ZacharieMcGee/flagfitness">  
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ZacharieMcGee&repo=obligavid_yt-clone&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats">
+    </a>
+  </span>
+
+</p>
+-->
 
 <!--
 **ZacharieMcGee/ZacharieMcGee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
