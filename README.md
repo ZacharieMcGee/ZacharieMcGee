@@ -15,7 +15,7 @@ I'm a self-taught web developer who's contributing to our digital landscape one 
 
 <br />
 
-### Languages and Tools
+### ⚒️ Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -32,31 +32,12 @@ I'm a self-taught web developer who's contributing to our digital landscape one 
 <br />
 <br />
 
-### Recent Projects
+### 🔬 Recent Projects
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<a href='https://zachariemcgee.github.io/flagfitness/' target='_blank'><img src='img/FlagFitness16.9.png' alt='flagfitness' width="1604" /><a href="https://github.com/ZacharieMcGee/flagfitness"><img width="1604" src="https://github-readme-stats.vercel.app/api/pin/?username=ZacharieMcGee&repo=flagfitness&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>|<a href='https://zachariemcgee.github.io/obligavid_yt-clone/' target='_blank'><img src='img/Obligavids16.9.png' alt='obligavids' width="1604" /><a href="https://github.com/ZacharieMcGee/obligavid_yt-clone"><img width="1604" src="https://github-readme-stats.vercel.app/api/pin/?username=ZacharieMcGee&repo=obligavid_yt-clone&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>|<a href='https://zachariemcgee.github.io/flagfitness/' target='_blank'><img src='img/FlagFitness16.9.png' alt='flagfitness' width="1604" /><a href="https://github.com/ZacharieMcGee/flagfitness"><img width="1604" src="https://github-readme-stats.vercel.app/api/pin/?username=ZacharieMcGee&repo=flagfitness&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>|
-| | | |
-  
-<!--
-<p>
-  <span>
-    <a href='https://zachariemcgee.github.io/flagfitness/' target='_blank'><img src='img/FlagFitness16.9.png' alt='flagfitness' width='278' />
-    <a href="https://github.com/ZacharieMcGee/flagfitness">  
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ZacharieMcGee&repo=flagfitness&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats">
-    </a>
-  </span>
-  
-  <span>
-    <a href='https://zachariemcgee.github.io/flagfitness/' target='_blank'><img src='img/FlagFitness16.9.png' alt='flagfitness' width='278' /></a>
-    <a href="https://github.com/ZacharieMcGee/flagfitness">  
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ZacharieMcGee&repo=obligavid_yt-clone&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats">
-    </a>
-  </span>
-
-</p>
--->
+| | |
+|:-------------------------:|:-------------------------:|
+|<a href='https://zachariemcgee.github.io/flagfitness/' target='_blank'><img src='img/FlagFitness16.9.png' alt='flagfitness' width="1604" /><a href="https://github.com/ZacharieMcGee/flagfitness"><img width="1604" src="https://github-readme-stats.vercel.app/api/pin/?username=ZacharieMcGee&repo=flagfitness&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>|<a href='https://zachariemcgee.github.io/obligavid_yt-clone/' target='_blank'><img src='img/Obligavids16.9.png' alt='obligavids' width="1604" /><a href="https://github.com/ZacharieMcGee/obligavid_yt-clone"><img width="1604" src="https://github-readme-stats.vercel.app/api/pin/?username=ZacharieMcGee&repo=obligavid_yt-clone&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>|
+| | |
 
 <!--
 **ZacharieMcGee/ZacharieMcGee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
